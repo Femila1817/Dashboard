@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FreeCRM Test Automation" duration-ms="69998" started-at="2019-10-22T18:54:07Z" finished-at="2019-10-22T18:55:17Z">
+    <groups>
+    </groups>
+    <test name="FreeCRM Application Test" duration-ms="69998" started-at="2019-10-22T18:54:07Z" finished-at="2019-10-22T18:55:17Z">
+      <class name="com.sel.pagetest.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sel.pagetest.HomePageTest@cb5822]" name="setUp" is-config="true" duration-ms="62037" started-at="2019-10-22T18:54:07Z" finished-at="2019-10-22T18:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnAdGroupTab()[pri:1, instance:com.sel.pagetest.HomePageTest@cb5822]" name="ClickOnAdGroupTab" duration-ms="7869" started-at="2019-10-22T18:55:09Z" finished-at="2019-10-22T18:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnAdGroupTab -->
+      </class> <!-- com.sel.pagetest.HomePageTest -->
+    </test> <!-- FreeCRM Application Test -->
+  </suite> <!-- FreeCRM Test Automation -->
+</testng-results>

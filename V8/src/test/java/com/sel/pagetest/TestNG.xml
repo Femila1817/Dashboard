@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="FreeCRM Test Automation" verbose="1">
+	<test name="FreeCRM Application Test">
+		<classes>
+			<class name="com.sel.pagetest.HomePageTest">
+			<methods>
+				<include name="ClickOnAdGroupTab"></include>
+			</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
